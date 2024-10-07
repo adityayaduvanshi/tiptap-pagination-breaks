@@ -1,6 +1,6 @@
 {
   "name": "tiptap-pagination-breaks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Tiptap extension for pagination",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -15,10 +15,28 @@
   "keywords": [
     "tiptap",
     "extension",
-    "pagination"
+    "pagination",
+    "page-breaks",
+    "document",
+    "editor",
+    "prosemirror",
+    "wysiwyg",
+    "rich-text",
+    "pagination-breaks",
+    "tiptap-extension",
+    "content-editor",
+    "publishing",
+    "page-layout",
+    "page-division",
+    "markdown"
   ],
   "author": "Aditya Yaduvanshi",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:adityayaduvanshi/tiptap-pagination-breaks.git"
+  },
+  "homepage": "https://github.com/adityayaduvanshi/tiptap-pagination-breaks#readme",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^28.0.0",
     "@rollup/plugin-node-resolve": "^15.3.0",
