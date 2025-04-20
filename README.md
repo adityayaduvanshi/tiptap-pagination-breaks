@@ -1,6 +1,6 @@
 # tiptap-pagination-breaks
 
-`**tiptap-pagination-breaks**` is a Tiptap extension that enables automatic pagination and page breaks within your Tiptap editor. Perfect for applications that require document-like editing features with defined page heights and visual page breaks.
+**tiptap-pagination-breaks** is a Tiptap extension that enables automatic pagination and page breaks within your Tiptap editor. Perfect for applications that require document-like editing features with defined page heights and visual page breaks.
 
 ## Features
 
