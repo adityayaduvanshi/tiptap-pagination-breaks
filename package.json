@@ -1,6 +1,6 @@
 {
   "name": "tiptap-pagination-breaks",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "A Tiptap extension for pagination",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -50,6 +50,8 @@
   },
   "dependencies": {
     "@tiptap/core": "^2.8.0",
-    "prosemirror-state": "^1.4.3"
+    "prosemirror-model": "^1.22.0",
+    "prosemirror-state": "^1.4.3",
+    "prosemirror-view": "^1.34.0"
   }
 }
